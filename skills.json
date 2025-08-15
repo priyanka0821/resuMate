@@ -1,0 +1,42 @@
+{
+  "Programming Languages": [
+    "Python", "Java", "C", "C++", "JavaScript", "TypeScript", "R", "Go", 
+    "HTML", "CSS", "SQL", "NoSQL", "Bash", "Shell Scripting"
+  ],
+  "Data Science & AI": [
+    "Machine Learning", "Deep Learning", "Artificial Intelligence", "NLP",
+    "Natural Language Processing", "Computer Vision", "Generative AI", "LLM", 
+    "Prompt Engineering", "LangChain", "RAG", "Agentic AI", "Groq", 
+    "OpenAI API", "Hugging Face", "Pandas", "NumPy", "Scikit-learn", 
+    "TensorFlow", "Keras", "Matplotlib", "Seaborn", "Plotly", "Data Analysis",
+    "Data Visualization", "Predictive Modeling", "Model Deployment"
+  ],
+  "Databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Firebase", "Oracle Database",
+    "Database Management", "DBMS"
+  ],
+  "Cloud & DevOps": [
+    "AWS", "Azure", "Google Cloud", "GCP", "Docker", "Kubernetes", "CI/CD",
+    "GitHub Actions", "Linux", "Ubuntu", "Cloud Deployment"
+  ],
+  "Development Tools": [
+    "Git", "GitHub", "Streamlit", "VS Code", "Jupyter Notebook", "Postman",
+    "Figma", "Power BI", "Tableau"
+  ],
+  "Software Engineering": [
+    "OOP", "Object Oriented Programming", "Software Development",
+    "Full Stack Development", "Backend Development", "Frontend Development",
+    "Agile", "Scrum", "SDLC", "System Design"
+  ],
+  "Soft Skills": [
+    "Communication", "Leadership", "Teamwork", "Problem Solving",
+    "Critical Thinking", "Collaboration", "Time Management", "Adaptability"
+  ],
+  "Business & Analytics": [
+    "Business Analysis", "Requirement Gathering", "Product Management",
+    "Marketing Analytics", "SEO", "Digital Marketing", "Market Research"
+  ],
+  "Other": [
+    "Operating System", "Windows", "Linux OS", "Excel", "MS Office", "PowerPoint"
+  ]
+}
